@@ -1,0 +1,4 @@
+IrssiScripts
+============
+
+Scripts for Irssi
